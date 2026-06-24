@@ -2,28 +2,34 @@
 
 ## SEXO
 
+Fonte: DATASUS
+
 | Código | Significado |
-| ------ | ----------- |
-| 1      | A definir   |
-| 3      | A definir   |
+|---------|---------|
+| 1 | Masculino |
+| 3 | Feminino |
 
 ## MORTE
 
+Fonte: DATASUS
+
 | Código | Significado |
-| ------ | ----------- |
-| 0      | A definir   |
-| 1      | A definir   |
+|---------|---------|
+| 0 | Não |
+| 1 | Sim |
 
 ## RACA_COR
 
+Fonte: DATASUS
+
 | Código | Significado |
-| ------ | ----------- |
-| 1      | A definir   |
-| 2      | A definir   |
-| 3      | A definir   |
-| 4      | A definir   |
-| 5      | A definir   |
-| 99     | A definir   |
+|---------|---------|
+| 1 | Branca |
+| 2 | Preta |
+| 3 | Parda |
+| 4 | Amarela |
+| 5 | Indígena |
+| 99 | Sem informação |
 
 ## IDADE
 
