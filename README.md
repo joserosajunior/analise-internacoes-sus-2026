@@ -173,11 +173,25 @@ Apresenta os principais KPIs, distribuição por faixa etária e sexo e os diagn
 
 ![Visão Geral](imagens/visao_geral.jpg)
 
+### Custos e Impacto
+
+Compara os diagnósticos por valor total registrado e valor médio por internação.
+
 ![Custos e Impacto](imagens/custos_impacto.jpg)
+
+### Permanência e Leitos
+
+Analisa permanência média e dias de permanência acumulados por diagnóstico.
 
 ![Permanência e Leitos](imagens/permanencia_leitos.jpg)
 
+### Mortalidade
+
+Apresenta os diagnósticos com maior número absoluto de óbitos e maiores taxas de mortalidade.
+
 ![Mortalidade](imagens/mortalidade.jpg)
+
+---
 
 ## Estrutura dos scripts SQL
 
